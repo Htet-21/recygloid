@@ -55,10 +55,6 @@ body {
   top: 10% !important;
 }
 
-#icon {
-  margin-left: 830px !important;
-}
-
 .icons {
   margin-left: 1400px !important;
 }
@@ -141,9 +137,6 @@ font-size: 16px !important;
   margin-right: -27px !important;
   margin-left: 155px !important;
 } 
-    #icon {
-      margin-left: 36% !important;
-    }
     
     .icons {
       margin-left: 58% !important;
@@ -156,10 +149,6 @@ font-size: 16px !important;
     }
     .pc {
       display: none;
-    }
-
-    #icon {
-      margin-left: 36% !important;
     }
     
     .icons {
@@ -227,9 +216,7 @@ font-size: 16px !important;
 }
 
 #icon {
-  width: auto;
-  margin-left: 500px;
-  margin-top: 100px;
+  width: 60px;
 }
 
 #logo {
@@ -350,6 +337,16 @@ font-size: 16px !important;
   margin-left: 20px;
 }
 
+#quote {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0px;
+  color: #000000;
+  margin: 10%;
+}
+
 #pos1 {
   font-family: 'Poppins';
 font-style: italic;
@@ -384,14 +381,6 @@ margin-left: 0px;
   .pc {
     display: none;
   }
-  
-.background {
-  width: 455px;
-}
-
-#icon {
-  margin-left: 80px;
-}
 
 .icons {
   margin-left: 270px;

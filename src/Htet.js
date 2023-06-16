@@ -6,6 +6,7 @@ import mail from './mail.png';
 import phone from './phone.png';
 import home from './home.png';
 import kohtet from './kohtet.png';
+import icon from './icon.png';
 
 
 const Htet = () => {
@@ -17,6 +18,7 @@ const Htet = () => {
             <div className="inner-block">
             <div className="infos">
             <img id="pf" src={kohtet} className="App-logo" alt="logo" />
+            <p id="quote">"This is a sample quote for a sample process."</p>
                  <h2>Mr. Okka Phyo Maung</h2>
                  <p id="pos">CFO</p>
                  <img id="logo" src={mail} alt="mail" />

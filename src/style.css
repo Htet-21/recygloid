@@ -177,9 +177,16 @@ font-size: 16px !important;
 
 #pf {
   width: 140px;
-  margin-top: 25px;
   margin-left: 30%;
   border-radius: 100px;
+}
+
+#pdf {
+  width: 100%;
+}
+.infos2 {
+  width: 100%;
+  margin-top: 10px;
 }
 
 #face {
@@ -191,10 +198,11 @@ font-size: 16px !important;
 .inner-block {
   background-color: #ffffff;
   margin: auto;
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 10px 10px 42px rgb(0 0 0 / 25%);
   width: 400px;
   margin-bottom: 100px;
+  border: 5px solid #57BBBF;
 }
 
 .shadow-block {
@@ -215,14 +223,25 @@ font-size: 16px !important;
   margin-left: 280px;
 }
 
+#nav-icon {
+  width: 25px;
+  padding: 8px;
+}
+
 #icon {
-  width: 60px;
+  width: 80px;
 }
 
 #logo {
-  width: auto;
-  margin-bottom: -35px;
+  width: 6%;
+  margin-bottom: -37px;
   margin-left: 20px;
+}
+
+.nav {
+  display: block;
+  margin-left: 270px;
+  margin-top: -65px;
 }
 
 #logo1 {
@@ -248,8 +267,13 @@ font-size: 16px !important;
 }
 
 .infos a {
-  text-decoration: none;
-  color: #005ECD;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  color: black;
+  text-decoration: unset;
+  line-height: 20px;
 }
 
 .infos1 h2 {
@@ -295,7 +319,7 @@ font-size: 16px !important;
 
 .infos {
   width: 100%;
-  margin-top: 50px;
+  margin-top: -20px;
 }
 
 .infos h2 {
@@ -342,9 +366,11 @@ font-size: 16px !important;
   font-style: italic;
   font-weight: 500;
   font-size: 14px;
-  line-height: 0px;
+  margin-top: 10px !important;
+  width: 80%;
+  margin: auto;
+  text-align: center;
   color: #000000;
-  margin: 10%;
 }
 
 #pos1 {

@@ -11,7 +11,7 @@ const Hlainfo = () => {
             <div className="background">
             <Navicon />
             
-            <div className="inner-block">
+            <div className="inner-block2">
            
             <div className="infos2">
             <img id="pdf" src={pinginfo} className="App-logo" alt="logo" />

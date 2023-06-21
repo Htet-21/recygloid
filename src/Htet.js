@@ -19,7 +19,7 @@ const Htet = () => {
             <Navicon />
 
             <div className="inner-block">
-            <img id="icon" src={icon} className="App-logo" alt="icon" />
+            <a href="https://www.recyglo.com/" target="_blank"><img id="icon" src={icon} className="App-logo" alt="icon" /></a>
             <div className="nav">
             <a href="https://www.facebook.com/okkaphyomg" target="_blank"><img id="nav-icon" src={web} className="App-logo" alt="icon" /></a>
             <a href="https://www.tiktok.com/@okkatravels" target="_blank"><img id="nav-icon" src={tiktok} className="App-logo" alt="icon" /></a>

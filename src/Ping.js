@@ -19,7 +19,7 @@ const Ping = () => {
             <Navicon />
             
             <div className="inner-block">
-            <img id="icon" src={icon} className="App-logo" alt="icon" />
+            <a href="https://www.recyglo.com/" target="_blank"><img id="icon" src={icon} className="App-logo" alt="icon" /></a>
             <div className="nav">
             <a href="https://www.facebook.com/ping.pingkapat" target="_blank"><img id="nav-icon" src={web} className="App-logo" alt="icon" /></a>
             <a href="https://www.tiktok.com/@recyglo_th" target="_blank"><img id="nav-icon" src={tiktok} className="App-logo" alt="icon" /></a>
@@ -27,7 +27,7 @@ const Ping = () => {
             </div>
             <div className="infos">
             <a href="/pinginfo"><img id="pf" src={ping} className="App-logo" alt="logo" /></a>
-            <p id="quote">"Don’t wait until you’ve reached your goal to be proud of yourself. Be proud of every step you take toward reaching that goal."</p>
+            <p id="quote">"Don’  t wait until you’ve reached your goal to be proud of yourself. Be proud of every step you take toward reaching that goal."</p>
                  <h2>Mrs. Pingkapat Butnumpet</h2>
                  <p id="pos">Business Development Associate </p>
                  <a href="mailto:Ping.recyglo@gmail.com" target="_blank"><img id="logo" src={mail} alt="mail" /></a>

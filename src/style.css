@@ -209,6 +209,7 @@ font-size: 16px !important;
 .inner-block2 {
   background-color: #fff;
   border: 5px solid #57bbbf8f;
+  box-shadow: 10px 10px 42px rgba(0,0,0,.25);
   border-radius: 15px;
   margin: auto auto 100px;
   width: 400px;
